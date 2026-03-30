@@ -1,2 +1,2 @@
-# pneumonia-detection-project-windsurf
+# pneumonia-detection-project
 pneumonia detection description
