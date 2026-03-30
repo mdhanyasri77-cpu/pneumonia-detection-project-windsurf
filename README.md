@@ -1,2 +1,2 @@
-# pneumonia-detection-project-
+# pneumonia detection
 pneumonia detection description
